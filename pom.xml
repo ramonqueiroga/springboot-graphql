@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.udemy</groupId>
-	<artifactId>springboot-graphql</artifactId>
+	<artifactId>springbootgraphql</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springboot-graphql</name>
+	<name>springbootgraphql</name>
 	<description>A demo project to learn GraphQL</description>
 
 	<properties>
